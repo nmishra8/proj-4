@@ -1,0 +1,7 @@
+/*! \mainpage CMSC 23700 --- Project 4 --- Winter 2014
+ *
+ * \author *** your name here ***
+ * \date March 2014
+ *
+ * This program implements terrain rendering using the Chunked LOD algorithm.
+ */

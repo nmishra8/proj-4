@@ -1,0 +1,15 @@
+{
+    "name" : "Synthetic map 1",
+    "h-scale" : 1,
+    "v-scale" : 0.00244141,
+    "base-elev" : 0,
+    "min-elev" : 0,
+    "max-elev" : 40,
+    "width" : 1024,
+    "height" : 1024,
+    "cell-size" : 1024,
+    "color-map" : true,
+    "normal-map" : true,
+    "water-map" : true,
+    "grid" : [ "00_00" ]
+}
